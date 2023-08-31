@@ -71,7 +71,7 @@ The interactive webpage also includes a feedback page where users can provide th
   6. Better ways to measure recommendation system performance.
       * Explore new evaluation metrics that consider user satisfaction, diversity, or long-term engagement
 
-## Learning outcomes 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
    * Stream lit python library
    * Deploy Machine Learning Model in Webpage
    * Basic Knowledge of CSS
@@ -80,7 +80,7 @@ The interactive webpage also includes a feedback page where users can provide th
    * Time Management
    * Team Work and Coordination.
 
-## Conclusion 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" > Conlusions:
 
 In summary, the project achieved its objective of assisting users in making informed dining choices by scraping Swiggy data and employing advanced models like Linear Regression, Logistic Regression, and Random Forest. The Random Forest model outshone others with an impressive 87% accuracy in predicting menu prices and suggesting suitable restaurants. The integration of a user-friendly Streamlit web interface facilitates easy interaction, while user feedback ensures ongoing refinement, making this project a powerful example of data-driven decision-making and technology integration.
 
